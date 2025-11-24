@@ -1,0 +1,62 @@
+# =========================================== GLOBAL SETTINGS ===========================================
+
+# Available languages: "en": English, "es": Spanish
+# Messages language for the administrator
+plugin_language: "en"
+
+# In this option, if set to FALSE, the teleport will only work if the person is NOT moving or taking damage;
+# if they move or take damage, the teleport will be canceled. If set to TRUE, the teleport will run even if the person walks or runs.
+movement: false
+
+# =========================================== COMMANDS SETTINGS ===========================================
+
+# -------------------------------------------------------------------------------------
+# COMMAND ENTRY TIP:
+# The label before the curly brace (e.g., 'home' in 'home: {...}') is an
+# internal identifier for this configuration entry. It must be unique but can be
+# any text (e.g., 'my_home_cooldown' or 'warp-to-spawn').
+#
+# IMPORTANT: This label defines the permission for players to bypass the cooldown:
+# cct.ignore.[label].
+# The actual command executed in-game (e.g., '/home') is defined by the 'command' field.
+# -------------------------------------------------------------------------------------
+
+# This section will contain the commands that the counter will take effect on
+commands:
+  home: {
+    # It is not necessary to start with "/", as the plugin will add it automatically
+    command: "home",
+    # Seconds that will affect this command
+    seconds: 5
+  }
+  tpa: {
+    command: "tpa",
+    seconds: 4
+  }
+  tpahere: {
+    command: "tpahere",
+    seconds: 4
+  }
+  spawn: {
+    command: "spawn",
+    seconds: 5
+  }
+  warp: {
+    command: "warp",
+    seconds: 5
+  }
+
+# This option makes the global counter affect all commands, including those not listed in the commands section
+global_command: false
+# In this section you set the time in seconds for the global counter
+global_seconds: 6
+
+# This section will contain the commands that will NOT be affected when "global_command" is set to TRUE
+whitelist_commands: [
+  "home",
+  "spawn"
+]
+
+# The permissions for players are: cct.ignore.all, cct.ignore.home, cct.ignore.tpa, cct.ignore.tpahere, cct.ignore.spawn, cct.ignore.warp (The appropriate permissions will be added for the command added in "commands". If the command "warp" is added (for example), only cct.ignore.warp will be created.)
+# Custom Cooldown Teleport has support for multiple languages like Spanish, English (The available languages are listed above)
+# Custom Cooldown Teleport is compatible with the following plugins: Essentials, EssentialsX, CMI, etc. (Any plugin that registers commands handled by Spigot/Paper)

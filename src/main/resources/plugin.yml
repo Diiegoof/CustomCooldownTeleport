@@ -1,0 +1,12 @@
+name: CustomCooldownTeleport
+version: 1.0.0
+main: com.diiegoof.cct.CCTPlugin
+api-version: 1.16
+authors: [Diego]
+description: A custom cooldown system for teleportation commands.
+commands:
+  cct:
+    description: Comandos de administración para CCT.
+    usage: /<command> help
+    permission: cct.admin
+    permission-message: You do not have permission to use this command.

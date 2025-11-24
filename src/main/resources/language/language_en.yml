@@ -1,0 +1,15 @@
+# Administrator messages:
+reload_plugin: "&c&l[CCT] &7Plugin restarted!"
+config_reloaded: "&c&l[CCT] &7Configuration reloaded successfully."
+language_changed: "&c&l[CCT] &7Plugin language successfully set to English. Restarting config..."
+
+# Help Menu:
+help_header: "&8&l&m--------&r &c&lCCT HELP &8&m--------"
+help_command_reload: "&c&l/cct reload &7- &fReloads the configuration and language files."
+help_command_help: "&c&l/cct help &7- &fShows this help menu."
+help_command_toggle: "&c&l/cct toggle &7- &fToggles your personal ignore status for the global counter."
+help_footer: "&8&l&m----------------------------------"
+
+# Player messages:
+global_message: "&c&l[CCT] &7The command will execute in %seconds% seconds."
+movement_cancel: "&c&l[CCT] &7You've moved, the command has been canceled!"

@@ -1,0 +1,15 @@
+# Mensajes para el administrador:
+reload_plugin: "&c&l[CCT] &7Plugin reiniciado!"
+config_reloaded: "&c&l[CCT] &7Configuración recargada exitosamente."
+language_changed: "&c&l[CCT] &7Idioma del plugin cambiado exitosamente a español. Reiniciando configuración..."
+
+# Menú de Ayuda:
+help_header: "&8&m--------&r &c&lAYUDA CCT &8&m--------"
+help_command_reload: "&c&l/cct reload &7- &fRecarga la configuración y los archivos de idioma."
+help_command_help: "&c&l/cct help &7- &fMuestra este menú de ayuda."
+help_command_toggle: "&c&l/cct toggle &7- &fAlterna tu estado personal para ignorar el contador global."
+help_footer: "&8&m----------------------------------"
+
+# Mensajes para el Jugador:
+global_message: "&c&l[CCT] &7El comando se ejecutará en %seconds% segundos."
+movement_cancel: "&c&l[CCT] &7¡Te has movido, el comando ha sido cancelado!"
