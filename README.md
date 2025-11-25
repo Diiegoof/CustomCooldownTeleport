@@ -2,8 +2,8 @@
 <a href="https://www.spigotmc.org/resources/customcooldownteleport-1-13-1-21.130352"><img src="https://github.com/user-attachments/assets/a1efa24f-fb8d-40ee-b6a5-c544a1b83b92"></a>
 
 <div align="center">
-  <details>
-    <summary align="center" title="Click to reveal or hide spoiler">
+  <details align="center">
+    <summary title="Click to reveal or hide spoiler">
       
       Spoiler: Feature
   </summary>
@@ -17,8 +17,8 @@
 </div>
 
 <div align="center">
-  <details>
-    <summary align="center" title="Click to reveal or hide spoiler">
+  <details align="center">
+    <summary title="Click to reveal or hide spoiler">
       
       Spoiler: Admin Commands
   </summary>
