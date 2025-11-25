@@ -3,10 +3,7 @@
 
 <div align="center">
   <details>
-    <summary title="Click to reveal or hide spoiler">
-      
-    Spoiler: Feature
-  </summary>
+    <summary title="Click to reveal or hide spoiler">Spoiler: Feature</summary>
   
   ---
   **Anti-Motion and Anti-Damage:** Automatically cancels the teleport if the player moves or takes damage during the countdown, adding a crucial layer of challenge and realism to fast travel.
@@ -21,10 +18,7 @@
 
 <div align="center">
   <details>
-    <summary title="Click to reveal or hide spoiler">
-      
-    Spoiler: Admin Commands
-  </summary>
+    <summary title="Click to reveal or hide spoiler">Spoiler: Admin Commands</summary>
   
   ---
   <h3>/cct help</h3>
