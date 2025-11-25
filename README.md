@@ -3,7 +3,7 @@
 
 <div align="center">
   <details>
-    <summary title="Click to reveal or hide spoiler">
+    <summary align="center" title="Click to reveal or hide spoiler">
       
       Spoiler: Feature
   </summary>
@@ -18,7 +18,7 @@
 
 <div align="center">
   <details>
-    <summary title="Click to reveal or hide spoiler">
+    <summary align="center" title="Click to reveal or hide spoiler">
       
       Spoiler: Admin Commands
   </summary>
