@@ -25,7 +25,7 @@
   Displays the administrator help menu.
   
   <h3>/cct reload</h3>
-  Reloads the configuration and language files without restarting the server.`
+  Reloads the configuration and language files without restarting the server.
 
   ---
   </details>
