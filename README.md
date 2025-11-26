@@ -33,7 +33,25 @@
 
 <div align="center">
   <h3>COMPLETE WIKI AT THIS LINK:</h3>
-  Coming soon
+  <details>
+    <summary title="Click to reveal or hide spoiler">Spoiler: English</summary>
+  
+  ---
+  <h3>Wiki English</h3>
+  https://diiegoof.vercel.app/en/games/minecraft/plugins/customcooldownteleport/wiki
+
+  ---
+  </details>
+
+  <details>
+    <summary title="Click to reveal or hide spoiler">Spoiler: Spanish</summary>
+  
+  ---
+  <h3>Wiki Spanish</h3>
+  https://diiegoof.vercel.app/juegos/minecraft/plugins/customcooldownteleport/wiki
+
+  ---
+  </details>
 
   <h3>SUPPORT</h3>
   <a href="https://discord.gg/Vucqca6FPb"><img width="50" height="50" alt="Discord Logo" src="https://github.com/user-attachments/assets/6d6b7aa3-3e33-4d9d-8c7c-067d3f354237" /></a>
