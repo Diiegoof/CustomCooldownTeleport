@@ -55,4 +55,5 @@
 
   <h3>SUPPORT</h3>
   <a href="https://discord.gg/Vucqca6FPb"><img width="50" height="50" alt="Discord Logo" src="https://github.com/user-attachments/assets/6d6b7aa3-3e33-4d9d-8c7c-067d3f354237" /></a>
+  <p><strong>Email:</strong> diiegoof.dev@gmail.com</p>
 </div>
