@@ -38,7 +38,7 @@
   
   ---
   <h3>Wiki English</h3>
-  https://diiegoof.vercel.app/en/games/minecraft/plugins/customcooldownteleport/wiki
+  https://diiegoof.vercel.app/en/plugins/customcooldownteleport
 
   ---
   </details>
@@ -48,7 +48,7 @@
   
   ---
   <h3>Wiki Spanish</h3>
-  https://diiegoof.vercel.app/juegos/minecraft/plugins/customcooldownteleport/wiki
+  https://diiegoof.vercel.app/plugins/customcooldownteleport
 
   ---
   </details>
